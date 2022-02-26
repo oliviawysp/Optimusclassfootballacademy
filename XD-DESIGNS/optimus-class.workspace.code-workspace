@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Hogwarts-festival\\hogwarts website"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\silverlake"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Optimus class website"
+	}
+}
